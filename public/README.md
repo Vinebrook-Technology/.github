@@ -1,6 +1,6 @@
 # The Official GitHub of Vinebrook Technology
 
-We are dedicated to improving the security of business and home networks through the use of our open source code, blogs, and videos.
+Vinebrook Technology was founded with a simple mission: Provide the absolute best IT services and solutions to our clients with guaranteed customer satisfaction.
 
 __FOLLOW US!__ [![GitHub Vinebrook Technology](https://img.shields.io/github/followers/Vinebrook-Technology?label=follow&style=social)](https://github.com/Vinebrook-Technology)
 <br>
