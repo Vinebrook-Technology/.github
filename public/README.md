@@ -18,10 +18,10 @@ Vinebrook's approach to Managed Services is unlike that of any other IT Solution
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
 #### LINKS
-- [![](https://img.shields.io/badge/Official-Vinebrook-Technology-black)](https://www.vinebrooktechnology.com/)
-- [![](https://img.shields.io/badge/LinkedIn-lightblue)](https://www.linkedin.com/company/vinebrooktech)
-- [![](https://img.shields.io/badge/Facebook-darkblue)](https://www.facebook.com/vinebrooktech)
-- [![](https://img.shields.io/badge/Twitter-white)](https://www.twitter.com/vinebrooktech)
-- [![](https://img.shields.io/badge/GitHub-lightgray)](https://github.com/Vinebrook-Technology)
-- [![](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/channel/UC0X8N3YZbIQoDZO2vhaptCA)
-- [![](https://img.shields.io/badge/Instagram-yellow)](https://www.instagram.com/vinebrooktech)
+- [![](https://img.shields.io/badge/Vinebrook%20Technology-Site-black)](https://www.vinebrooktechnology.com/)
+- [![](https://img.shields.io/badge/Vinebrook%20Technology-LinkedIn-lightblue)](https://www.linkedin.com/company/vinebrooktech)
+- [![](https://img.shields.io/badge/Vinebrook%20Technology-Facebook-darkblue)](https://www.facebook.com/vinebrooktech)
+- [![](https://img.shields.io/badge/Vinebrook%20Technology-Twitter-white)](https://www.twitter.com/vinebrooktech)
+- [![](https://img.shields.io/badge/Vinebrook%20Technology-GitHub-lightgray)](https://github.com/Vinebrook-Technology)
+- [![](https://img.shields.io/badge/Vinebrook%20Technology-YouTube-red)](https://www.youtube.com/channel/UC0X8N3YZbIQoDZO2vhaptCA)
+- [![](https://img.shields.io/badge/Vinebrook%20Technology-Instagram-yellow)](https://www.instagram.com/vinebrooktech)
