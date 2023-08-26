@@ -7,7 +7,7 @@ __FOLLOW US!__ [![GitHub Vinebrook Technology](https://img.shields.io/github/fol
 __CONTACT US:__ <hello@vinebrooktech.com> <br>
 
 <a href="https://www.vinebrooktechnology.com/">
-    <img alt="Vinebrook Technology Logo" src="https://static.wixstatic.com/media/1f220e_2dc1a61fff774a94a1d2f0b4c7f66dea~mv2.png/v1/fill/w_762,h_476,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Vinebrook%20Technology-Final-02.png" width=50%></a> <br>
+    <img alt="Vinebrook Technology Logo" src="https://static.wixstatic.com/media/1f220e_2dc1a61fff774a94a1d2f0b4c7f66dea~mv2.png/v1/fill/w_762,h_476,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Vinebrook%20Technology-Final-02.png" width=20%></a> <br>
 <br>
 
 Vinebrook Technology was founded with a simple mission: Provide the absolute best IT services and solutions to our clients with guaranteed customer satisfaction.
